@@ -6,4 +6,4 @@ The tutorial teaches an undergraduate-level student how to use TensorFlow to bui
 
 Here is a link to a section of the tutorial that shows an example of gradient descent and how to implement it in TensorFlow.
 
-![Tutorial Sample](https://github.com/davidavzP/MLP-Tutorial-TensorFlow/blob/5f1cd59a326c4371dd6620469f709bc5bd201176/TutorialSample.pdf)
+![Tutorial Sample](TutorialSample.pdf)
