@@ -1,4 +1,4 @@
-# MLP-Tutorial-TensorFlow
+# Multi-Layer-Perceptron-Tutorial-TensorFlow
 
 This repository contains an approachable tutorial on how to build Multi-Layer Perceptrons with TensorFlow.
 
